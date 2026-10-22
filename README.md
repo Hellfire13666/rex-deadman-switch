@@ -1,6 +1,6 @@
 # Rex's Deadman Switch
 
-![A bone-handled dead man's lever with ember contacts, beside a sealed handoff envelope on a coal desk.](switch.jpg)
+![A hooded skull with a cigar, a dead man's lever, a dark terminal, and a sealed envelope on a coal desk.](switch.jpg)
 
 A cron script. Not a hosted service. Standard library only (Python 3.10+).
 
