@@ -1,5 +1,7 @@
 # Rex's Deadman Switch
 
+![A bone-handled dead man's lever with ember contacts, beside a sealed handoff envelope on a coal desk.](switch.jpg)
+
 A cron script. Not a hosted service. Standard library only (Python 3.10+).
 
 Check in with `deadman ping`. If you miss N days, `deadman run` emails the handoff notes in your config to the contacts you chose. It mails once per silence. A later ping sends a false alarm and arms it again.
