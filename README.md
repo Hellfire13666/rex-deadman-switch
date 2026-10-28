@@ -1,7 +1,7 @@
 # Rex's Deadman Switch
 
 <!-- GLITCHBYTE-VISITOR-BADGE:START -->
-[![Page Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHellfire13666%2Frex-deadman-switch&count_bg=%23FF1493&title_bg=%23080808&icon=&icon_color=%23FFFFFF&title=PAGE+VIEWS&edge_flat=false)](https://github.com/Hellfire13666/rex-deadman-switch)
+[![Page Views](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FHellfire13666%2Frex-deadman-switch&label=PAGE%20VIEWS&icon=emoji-smile&color=%23FF1493&style=flat-square)](https://github.com/Hellfire13666/rex-deadman-switch)
 <!-- GLITCHBYTE-VISITOR-BADGE:END -->
 
 ![A hooded skull with a cigar, a dead man's lever, a dark terminal, and a sealed envelope on a coal desk.](switch.jpg)
